@@ -1,2 +1,2 @@
 # Cubi-Core
-A creature collection/Survival game.
+A Creature Collection/Survival game.(Or is it a RPG? I don't know.)
