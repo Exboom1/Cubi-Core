@@ -1,2 +1,2 @@
 # Cubi-Core
-A Creature Collection/Survival game.(Or is it a RPG? I don't know.)
+A RPG Where you can recruit the creatures you defeat!
